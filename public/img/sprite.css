@@ -1,0 +1,77 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-ico-social-b2 {
+    width: 131px;
+    height: 40px;
+    background-position: -5px -5px;
+}
+
+.sprite-ico-social-f {
+    width: 30px;
+    height: 30px;
+    background-position: -146px -5px;
+}
+
+.sprite-ico-social-f2 {
+    width: 131px;
+    height: 40px;
+    background-position: -5px -55px;
+}
+
+.sprite-ico-social-i {
+    width: 30px;
+    height: 30px;
+    background-position: -186px -5px;
+}
+
+.sprite-ico-social-m2 {
+    width: 131px;
+    height: 40px;
+    background-position: -5px -105px;
+}
+
+.sprite-ico-social-p {
+    width: 30px;
+    height: 30px;
+    background-position: -146px -45px;
+}
+
+.sprite-ico-social-p2 {
+    width: 131px;
+    height: 40px;
+    background-position: -5px -155px;
+}
+
+.sprite-ico-social-t {
+    width: 30px;
+    height: 30px;
+    background-position: -186px -45px;
+}
+
+.sprite-ico-social-t2 {
+    width: 131px;
+    height: 40px;
+    background-position: -226px -5px;
+}
+
+.sprite-ico-social-tb2 {
+    width: 131px;
+    height: 40px;
+    background-position: -226px -55px;
+}
+
+.sprite-ico-usa {
+    width: 26px;
+    height: 16px;
+    background-position: -146px -105px;
+}
+
+.sprite-totop {
+    width: 97px;
+    height: 103px;
+    background-position: -182px -105px;
+}
